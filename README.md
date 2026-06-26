@@ -45,3 +45,4 @@ Styling: Custom Qt Style Sheets (QSS) mimicking modern CSS variables.
 HTTP Client: requests library utilizing secure endpoints with metric unit configurations.
 
 State Management: Utilizes QApplication.processEvents() to force UI responsiveness during network handshakes.
+https://roadmap.sh/projects/weather-api-wrapper-service
