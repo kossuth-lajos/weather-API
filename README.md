@@ -14,7 +14,7 @@ A sleek, modern desktop Weather Application built with **Python 3** and **PyQt5*
 
 ## Preview 📱
 
-![Weather App Preview](preview.png)
+![Weather App Preview](prewiev.png)
 
 ## Prerequisites 🛠️
 
